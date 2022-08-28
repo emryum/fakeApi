@@ -1,4 +1,7 @@
 # fakeApi
-Ejecutar los siguientes comandos
+Ejecutar los siguientes comandos:
 npm i -g json-server
+
+
+
 json-server --watch db.json
